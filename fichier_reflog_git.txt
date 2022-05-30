@@ -1,0 +1,52 @@
+c7492d3 HEAD@{0}: commit: new line files.txt
+98d025e HEAD@{1}: checkout: moving from dev to feature
+52c6dd9 HEAD@{2}: checkout: moving from feature to dev
+98d025e HEAD@{3}: commit: add contact.txt
+52c6dd9 HEAD@{4}: checkout: moving from dev to feature
+52c6dd9 HEAD@{5}: checkout: moving from test to dev
+e2c20bb HEAD@{6}: commit: ajout gitignore
+62dfd32 HEAD@{7}: checkout: moving from main to test
+62dfd32 HEAD@{8}: commit: add file astucegit.txt
+6406733 HEAD@{9}: merge dev2: Merge made by the 'ort' strategy.
+32fda1f HEAD@{10}: pull: Fast-forward
+9f3f383 HEAD@{11}: checkout: moving from dev2 to main
+2b2a74c HEAD@{12}: checkout: moving from main to dev2
+9f3f383 HEAD@{13}: checkout: moving from dev2 to main
+2b2a74c HEAD@{14}: commit: add fichier_two.txt
+52c6dd9 HEAD@{15}: checkout: moving from dev to dev2
+52c6dd9 HEAD@{16}: checkout: moving from dev2 to dev
+52c6dd9 HEAD@{17}: checkout: moving from dev to dev2
+52c6dd9 HEAD@{18}: checkout: moving from dev2 to dev
+52c6dd9 HEAD@{19}: checkout: moving from dev to dev2
+52c6dd9 HEAD@{20}: merge dev2: Fast-forward
+990df4f HEAD@{21}: checkout: moving from dev2 to dev
+52c6dd9 HEAD@{22}: commit (merge): fix:resolve conflict
+36b3466 HEAD@{23}: commit: add new line files.txt
+9f3f383 HEAD@{24}: checkout: moving from main to dev2
+9f3f383 HEAD@{25}: checkout: moving from dev2 to main
+9f3f383 HEAD@{26}: merge main: Fast-forward
+43f9b19 HEAD@{27}: checkout: moving from main to dev2
+9f3f383 HEAD@{28}: pull: Merge made by the 'ort' strategy.
+1f41f0e HEAD@{29}: commit: add gitignore
+47d92d4 HEAD@{30}: checkout: moving from main to main
+47d92d4 HEAD@{31}: merge dev2: Merge made by the 'ort' strategy.
+1af1e8b HEAD@{32}: checkout: moving from dev2 to main
+43f9b19 HEAD@{33}: commit: modify files.txt
+990df4f HEAD@{34}: checkout: moving from dev to dev2
+990df4f HEAD@{35}: merge dev2: Fast-forward
+ebe48a6 HEAD@{36}: checkout: moving from dev2 to dev
+990df4f HEAD@{37}: checkout: moving from main to dev2
+1af1e8b HEAD@{38}: commit: update README.md
+261898c HEAD@{39}: checkout: moving from dev2 to main
+990df4f HEAD@{40}: checkout: moving from main to dev2
+261898c HEAD@{41}: commit: update README.md
+699fb7b HEAD@{42}: checkout: moving from dev2 to main
+990df4f HEAD@{43}: checkout: moving from main to dev2
+699fb7b HEAD@{44}: checkout: moving from dev2 to main
+990df4f HEAD@{45}: commit: update second_files.txt
+ebe48a6 HEAD@{46}: checkout: moving from dev to dev2
+ebe48a6 HEAD@{47}: commit: create second_files.txt
+98409fa HEAD@{48}: commit: update files.txt
+3956f23 HEAD@{49}: commit: update file
+699fb7b HEAD@{50}: checkout: moving from main to dev
+699fb7b HEAD@{51}: commit (initial): first commit

@@ -1,0 +1,154 @@
+    1  git checkout -b test
+    2  touch tests.txt
+    3  delete tests.txt 
+    4  rm -f tests.txt 
+    5  cd ../TP_GIT/exercices/
+    6  touch tests.txt
+    7  git tag -a  -m "nouveau fichier"
+    8  git  reflog
+    9  git tag -a -m "nouveau fichier"
+   10  git  reflog show --all
+   11  git tag -a -m"nouveau fichier"
+   12  git tag -a v1.0 -m "version 1.0"
+   13  git tag
+   14  git add . 
+   15  git commit -m "add tests.txt"
+   16  history
+   17  git push -u origin test
+   18  git push --tags
+   19  git checkout -b featurebranch
+   20  touch contact.txt 
+   21  git add . 
+   22  git commit -m "add contact.txt"
+   23  git push -u origin featurebranch 
+   24  git branch -M feature
+   25  git push -u origin feature
+   26  git checkout dev
+   27  git push origin :featurebranch
+   28  git push origin :revert-1-dev2
+   29  git push origin :test
+   30  git lola
+   31  cd ../../Git
+   32  ls
+   33  git checkout dev
+   34* 
+   35  git branch -all
+   36  git branch --all
+   37  git push 
+   38  git push --set-upstream origin test
+   39  cd ../../Git
+   40  git checkout dev
+   41  git checkout dev
+   42  git push origin :test
+   43  git branch -d test
+   44  git branch -D test
+   45  git branch --all
+   46  git checkout -b feature
+   47  git lola
+   48  git lola
+   49  git branch --all
+   50  touch contact.txt
+   51  history
+   52  git tag -a v1.1 -m "version 1.1"
+   53  git add . 
+   54  git commit -m "add contact.txt"
+   55  git push
+   56  git push --set-upstream origin feature
+   57  git pull
+   58  git push tag
+   59  history
+   60  git push --tag
+   61  git push -u origin feature
+   62  git pull
+   63  git checkout dev
+   64  git push origin :feature
+   65  git checkout feature 
+   66  git push -u origin feature
+   67  cd ../TP_GIT/tp\ git/
+   68  git clone https://github.com/Pierre-bit/tpgitconflict.git
+   69  git checkout -b dev
+   70  cd tpgitconflict/
+   71  git checkout -b dev
+   72  git push -u origin dev
+   73  git checkout dev
+   74  git pull 
+   75  git branch --all
+   76  history
+   77  git tag -a v1.0 -m "version 1.0"
+   78  git push  --tag
+   79  git pull
+   80  git branch --all
+   81  git pull
+   82  git add .
+   83  git commit -m "modify paroles.txt"
+   84  gut push -u origin dev
+   85  git push -u origin dev
+   86  git pull
+   87  git push origin :tanaka
+   88  git pull
+   89  git add .
+   90  git commit -m "add new line paroles.txt"
+   91  git push 
+   92  git push -u origin dev
+   93  git checkout 
+   94  git push -u origin dev
+   95  git pull
+   96  git add .
+   97  git commit -m "add new line paroles.txt"
+   98  git push -u origin dev
+   99  git add .
+  100  git commit -m "add new line paroles.txt"
+  101  git push -u origin dev
+  102  git add .
+  103  git commit -m "add new line paroles.txt"
+  104  git push -u origin dev
+  105  history
+  106  git tag -a v1.1 -m "version 1.1"
+  107  git push --tag
+  108  git add .
+  109  git commit -m "add new line paroles.txt"
+  110  git push -u origin dev
+  111  git pull
+  112  git push -u origin dev
+  113  git pull
+  114  git add .
+  115  git commit -m "add new line paroles.txt"
+  116  git push -u origin dev
+  117* git checkout -b 
+  118  git add .
+  119  git commit -m "add new line paroles.txt"
+  120  git push -u origin feature
+  121  git checkout dev
+  122  git merge feature
+  123  git lola
+  124  clear
+  125  git add . 
+  126  git commit -m "add new line discours.txt"
+  127  git push -u origin maBranche
+  128  git checkout -b maBranche
+  129  git add . 
+  130  git commit -m "add new line discours.txt"
+  131  git checkout -b maBranche
+  132  git push -u origin maBranche
+  133  git pull
+  134  git checkout feature anthony
+  135  git checkout feature 
+  136  git branch -D maBranche 
+  137  git branch --all
+  138  git checkout dev
+  139  git pull
+  140  git add . 
+  141  git commit -m "resolve conflict"
+  142  git push -u origin dev
+  143  git pull
+  144  git push -u origin dev
+  145  git checkout main
+  146  git merge dev
+  147  git push -u origin main
+  148  cd ../../../Git
+  149  git branch --all
+  150  git add . 
+  151  git commit -m "new line files.txt"
+  152  git push -u origin feature
+  153  git remote -v
+  154  history >> fichier_cmd_git.txt
