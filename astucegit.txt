@@ -1,0 +1,5 @@
+exemple git merge 
+
+sur la branche main 
+git merge dev2 
+on recupere ce qu il ya sur la branche dev2 
