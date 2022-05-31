@@ -1,3 +1,6 @@
 I'm learning git
 first try
 another try
+
+bonjour le commit 
+a nouveau
